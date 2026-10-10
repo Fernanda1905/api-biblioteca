@@ -42,7 +42,7 @@ fail 0
 
 ## URL publica
 
-Pendiente de despliegue en Render.
+https://api-biblioteca-n671.onrender.com/
 
 ## Formato de respuesta
 
@@ -93,3 +93,4 @@ Todas las respuestas usan una estructura JSON estandar:
 - El ISBN no puede repetirse en el catalogo.
 - Los campos obligatorios se validan antes de crear o actualizar.
 - Al actualizar ejemplares se conservan los prestamos activos.
+
